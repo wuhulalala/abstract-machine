@@ -12,7 +12,7 @@
 !README
 !LICENSE
 .*
-_*
+!_*
 *~
 build/
 !.gitignore
